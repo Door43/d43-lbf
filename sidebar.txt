@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbf:home|Door43 (lbf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbf|d43-lbf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbf/archive/master.zip|d43-lbf.zip]]
+
+**Recent Changes**
+{{changes>ns = lbf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbf|Ethnologue data]]
+
